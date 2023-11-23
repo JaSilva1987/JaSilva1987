@@ -59,13 +59,26 @@ passionate developer, passionate about IT, I love developing and learning/helpin
 <img height="48" title="NextJs" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" style="max-width: 100%;">
 <img height="48" title="NestJs" src="https://res.cloudinary.com/practicaldev/image/fetch/s--m_Ng9MLF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/fppjegg7q1kb2pdzmlvf.png" style="max-width: 100%;">
 <img height="56" title="Java" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" style="max-width: 100%;">
+<img height="48" title="JEST" src="https://res.cloudinary.com/practicaldev/image/fetch/s--YORpNZ5O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y5clicw559gztoxmzowp.png" style="max-width: 100%;">
+<img height="48" title="Cypress" src="https://docs.cypress.io/img/logo/cypress-logo-dark.png" style="max-width: 100%;">
 </p>
 
 <strong>DevSecOps</strong>
-
-<strong>Business Tools</strong>
+<p>
+<img height="48" title="GitHub" src="https://cdn.iconscout.com/icon/free/png-512/github-31-72535.png" style="max-width: 100%;">
+<img height="56" title="Gitlab" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-3050926-2538294.png" style="max-width: 100%;">
+<img height="56" title="Bitbucket" src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-4-569378.png" style="max-width: 100%;">
+<img height="48" title="Azure Devops" src="https://cdn.iconscout.com/icon/free/png-512/azure-1868965-1583129.png" style="max-width: 100%;">
+<img height="48" title="Kubernets" src="https://cdn.iconscout.com/icon/free/png-512/kubernets-283489.png" style="max-width: 100%;">
+<img height="56" title="Docker" src="https://cdn.iconscout.com/icon/free/png-512/docker-3050921-2538289.png" style="max-width: 100%;">
+</p>
 
 <strong>Development environment</strong>
+<p>
+<img height="48" title="Visual Studio" src="https://cdn.iconscout.com/icon/free/png-512/visual-studio-569577.png" style="max-width: 100%;">
+<img height="48" title="Visual Code" src="https://cdn.iconscout.com/icon/free/png-512/logo-1889502-1597562.png" style="max-width: 100%;">
+<img height="46" title="Sublime" src="https://cdn.iconscout.com/icon/free/png-512/sublime-439588.png" style="max-width: 100%;">
+</p>
 
 <strong>Operational Systems</strong>
 <p>
